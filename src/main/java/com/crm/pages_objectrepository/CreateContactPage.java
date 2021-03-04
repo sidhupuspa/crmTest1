@@ -29,4 +29,8 @@ public void createNewContact(String FirstName,String LastName)
 	lastname.sendKeys(LastName);
 	saveIcon.click();
 }
+public void createNewCon()
+{
+	System.out.println("test");
+}
 }
